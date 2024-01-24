@@ -13,7 +13,7 @@
 ### 🏃 Speed Hacks and Noclip: Synapse X allows players to modify their movement speed and utilize the noclip feature, enhancing tactical maneuvering and exploration in the game world.
 
 ### 🔄 Compatibility with Diverse Scripts: Synapse X seamlessly integrates with a wide variety of Roblox scripts, offering versatility to players exploring different script functionalities.
-
+![2024-01-24 20 01 24](https://github.com/accentrick8888/Synapse-X-Executor-Roblox/assets/157628933/f57aadfa-187d-4eee-8fae-fb7e4203c0c1)
 ### 🚀 Consistent Performance: Designed for stability, Synapse X ensures smooth execution of most scripts, delivering a powerful tool for players seeking optimal performance in their Roblox adventures.
 
 ## 🛠 How to Harness Synapse Power:
